@@ -1,0 +1,1 @@
+{"version":"0.1","connections":[{"details":{"protocol":"tds","address":{"server":"practiceade1-ondemand.sql.azuresynapse.net","database":"shopping"}},"storageMode":"DirectQuery"}]}
