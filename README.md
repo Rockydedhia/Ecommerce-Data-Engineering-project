@@ -6,7 +6,7 @@ The primary goal of this project is to ensure the secure management, optimizatio
 ## Steps Performed
 The process goes as follows:
 
-- Enter the E-Commerce API into the Azure Data Factory using Rest_Api dataset. Stored the Json data into ADLS Gen2 at bronze folder.
+- Entered the E-Commerce API into the Azure Data Factory using Rest_Api service. Stored the Json data into ADLS Gen2 at bronze folder.
 - Further, Used databricks which collects data from bronze folder and perform some transformations like droping a column, padding etc. Data gets stored into Silver folder with parquet delta fromat.
 - Finaly stage of transformation, Silver folder's data gets tranforms based on business needs like renaming of column as we had small amount of data not major transform required. But we can perform like group, 
   calculations, enrichments, use-case specific optimizations etc.
