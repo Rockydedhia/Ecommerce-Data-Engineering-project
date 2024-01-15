@@ -25,7 +25,7 @@ The process goes as follows:
 
 
 ## Dataset Used
-This is an ECommerece dummy API
+This is an E-Commerce dummy API
 
 
 ## Project Goals
