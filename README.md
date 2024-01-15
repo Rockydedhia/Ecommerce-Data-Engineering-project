@@ -16,7 +16,7 @@ The process goes as follows:
 
 ## Services used:
 1. Azure Data Factory for seamless workflow automation.
-2. Azure Databricks for exploration and analytics.
+2. Azure Databricks for transformation.
 3. Azure Data Lake Gen 2 for secure data management.
 4. Azure Key Vault for security.
 5. Azure Synapse Analytics for complex analytics.
