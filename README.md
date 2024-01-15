@@ -18,10 +18,9 @@ The process goes as follows:
 1. Azure Data Factory for seamless workflow automation.
 2. Azure Databricks for transformation.
 3. Azure Data Lake Gen 2 for secure data management.
-4. Azure Key Vault for security.
-5. Azure Synapse Analytics for complex analytics.
-6. Azure Storage Account for reliable storage.
-7. Azure Key Vault & Azure Active Directory for security & governance.
+4. Azure Synapse Analytics for complex analytics.
+5. Azure Storage Account for reliable storage.
+6. Azure Key Vault & Azure Active Directory for security & governance.
 
 
 ## Dataset Used
