@@ -38,4 +38,4 @@ This is an E-Commerce dummy API
 
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+<img src="architecture diagram.gif">
